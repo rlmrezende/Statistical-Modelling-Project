@@ -1,0 +1,391 @@
+fsq_id,name,rating,categories,address,latitude,longitude
+4cfe88e1084f548186099109,Torteria Di Lorenza,6.6,"['Café', 'Dessert Shop', 'Restaurant']","CLN 109 Bl. C, Brasília, DF, 70752-530",-15.758862,-47.88882
+548b5911498ecccac953fc61,Café Oyá,7.3,"['Café', 'Restaurant']","CLN 307 Blc A, 10, Brasília, DF, 70752-510",-15.758862,-47.88882
+537f6252498e54e075c1b714,Dulce Patagonia,8.9,"['Café', 'Pastry Shop', 'Restaurant']","Cln 309 Bl C, Brasília, DF, 70755-530",-15.758862,-47.88882
+4e97331df5b91722c72e3cf2,Delícia de Bolo,8.1,"['Café', 'Restaurant']","Sclrn 709, Brasília, DF, 70750-510",-15.758862,-47.88882
+5682ee79498e148ae235ced0,Philippe Verstraete Pâtisserie e Boulangerie,6.4,"['Bakery', 'Dessert Shop', 'Restaurant']","S CLN 310 BLoco A shop 4 Comercio Local Norte, Brasília, DF, 70756-510",-15.758862,-47.88882
+52334df0498e5e4e3b0e54df,Tartaruga Self Service,7.4,['Restaurant'],"Brasília, DF",-15.758862,-47.88882
+4bb65779f562ef3bfe013097,Beirute,8.4,"['Bar', 'Restaurant']","CLN 107 Bl. D, Brasília, DF, 70743-540",-15.766,-47.88646
+4cd59ad82944b1f76e1d5eec,Sabor Glacê,8.1,"['Bakery', 'Pastry Shop', 'Restaurant']","Cln 108 Bl C, Brasília, DF, 70744-530",-15.766,-47.88646
+520666e711d245fc895f900f,Mesclattino Cafe & Sorvete,7.2,"['Ice Cream Parlor', 'Restaurant']","Bloco D 23 Cln 107 Asa Norte, Brasília, DF, 70743-540",-15.766,-47.88646
+4d0b79c29a44370421e1b967,Cacau Show,7.3,['Restaurant'],"Shc Norte Cl Quadra, 108, Brasília, DF, 70744-520",-15.766,-47.88646
+537f6252498e54e075c1b714,Dulce Patagonia,8.9,"['Café', 'Pastry Shop', 'Restaurant']","Cln 309 Bl C, Brasília, DF, 70755-530",-15.766,-47.88646
+4cb6216d1b0af04df355ce25,Panificadora Savassi,6.6,"['Bakery', 'Restaurant']","Cln 307 Bl E, Brasília, DF, 70746-550",-15.766,-47.88646
+575a093bcd10d3147183228d,Dikantu Bar,7.0,"['Beer Bar', 'Restaurant']","Scln 204, Brasília, DF, 70842-510",-15.77662,-47.87749
+555a6258498e2f2bc99e991e,Los Baristas . Casa de Cafés,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Quadra Cln 404 Bloco C 38 SCLN, 404, Brasília, DF, 70845-530",-15.77662,-47.87749
+58f278fd4acb19754b2ebe62,Capo Barbieria & Caffè,,['Restaurant'],"Cln 204 BL C, Brasília, DF, 70842-530",-15.77662,-47.87749
+56ad6537498ef82f889b97bf,La Rubia Cafe,7.3,"['Arts and Entertainment', 'Restaurant']","Scln 404, Brasília, DF, 70845-020",-15.77662,-47.87749
+59a838f35a2c911d4c4ab06d,Cardabelle Padaria,7.9,"['Bakery', 'Restaurant']","Quadra Cln, 403, Brasília, DF, 70835-550",-15.77662,-47.87749
+5447bdef498ed3636fce91a9,Flor de Lis,6.9,['Restaurant'],"Quadra Cln 404 Bloco C Stores 04, 08, 66 and, 70, Brasília, DF, 70845-530",-15.77662,-47.87749
+4d2ca4f2888af04d1e33eaaf,Monjolo Biscoitos Caseiros,7.1,"['Bakery', 'Restaurant']","Cln 404 Bl D, Brasília, DF, 70845-540",-15.77662,-47.87749
+5067317ae4b02bd34405fad8,Pardim,7.1,"['Bar', 'Restaurant']","Quadra Cln, 405, Brasília, DF, 70846-510",-15.77662,-47.87749
+5b116a83419a9e002caec9a6,Quanto Cafe,8.6,"['Coffee Shop', 'Restaurant']","Comercio Local Norte 103 Bloco A Asa Norte, Brasília, DF, 70732-510",-15.77662,-47.87749
+4b9c1d89f964a520af4b36e3,Daniel Briand Pâtissier & Chocolatier,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Cln 104, Brasília, DF, 70733-510",-15.77662,-47.87749
+4b7c50f9f964a520eb8b2fe3,Casa de Biscoitos Mineiros,8.1,"['Bakery', 'Dessert Shop', 'Restaurant']","Cln 210 Bl D, Brasília, DF, 70862-540",-15.75737,-47.88223
+4dbb4f06fa8cee72732e3b4c,Fran's Café,6.0,"['Café', 'Coffee Shop', 'Restaurant']","CLN 209 Bl. D, Brasília, DF, 70854-540",-15.75737,-47.88223
+4ee3beaf77c8e89317797b4b,Pinella,8.3,"['Bar', 'Coffee Shop', 'Restaurant']","Cln 408, Brasília, DF, 70856-520",-15.75737,-47.88223
+4bbdf3d8593fef3b3f0d0456,Bar Godofredo,8.0,"['Bar', 'Restaurant']","Cln 408 Bl B, Brasília, DF, 70856-520",-15.75737,-47.88223
+55b183d5498e9b7913d4a162,Jungle Acai Bar,7.8,"['Bar', 'Restaurant']","Sn Quadra Cln, 408, Brasília, DF, 70856-530",-15.75737,-47.88223
+5065beb6e4b03541b8c9105f,Tomate Cereja,7.1,['Restaurant'],"Quadra Cln, 409, Brasília, DF, 70857-540",-15.75737,-47.88223
+4df4e0a2a809141629a74cfd,Bar e Lanchonete Campinense,6.8,"['Bar', 'Restaurant']","Cln, 410, Brasília, DF, 70865-520",-15.75737,-47.88223
+4c02bd8b0d0e0f476193019a,Bar dos Amigos,6.7,"['Bar', 'Restaurant']","Cln 410 (L2), Brasília, DF, 71600-000",-15.75737,-47.88223
+4dfb39aed22d56d1ebae5099,Bar do Mendes,6.6,"['Dive Bar', 'Restaurant']","Cln 410, Brasília, DF, 70866-120",-15.75737,-47.88223
+4be356c21dd22d7f0a7196bd,Bar Por do Sol,6.3,"['Arts and Entertainment', 'Dive Bar', 'Restaurant']","Cln 408 Bl C, Brasília, DF, 70856-530",-15.75737,-47.88223
+548b5911498ecccac953fc61,Café Oyá,7.3,"['Café', 'Restaurant']","CLN 307 Blc A, 10, Brasília, DF, 70752-510",-15.75737,-47.88223
+4dd7f75b1f6ee146833009f3,Adega Brasília,7.1,"['Wine Bar', 'Restaurant', 'Winery']","CLN 405 Bl. D, Brasília, DF",-15.77163,-47.87505
+555a6258498e2f2bc99e991e,Los Baristas . Casa de Cafés,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Quadra Cln 404 Bloco C 38 SCLN, 404, Brasília, DF, 70845-530",-15.77163,-47.87505
+4d2ca4f2888af04d1e33eaaf,Monjolo Biscoitos Caseiros,7.1,"['Bakery', 'Restaurant']","Cln 404 Bl D, Brasília, DF, 70845-540",-15.77163,-47.87505
+4b4ca6d1f964a520f0b826e3,Sorbe Sorvetes Artesanais,7.0,"['Ice Cream Parlor', 'Restaurant']","Cln 405 Bl C, Brasília, DF, 70846-530",-15.77163,-47.87505
+5067317ae4b02bd34405fad8,Pardim,7.1,"['Bar', 'Restaurant']","Quadra Cln, 405, Brasília, DF, 70846-510",-15.77163,-47.87505
+5447bdef498ed3636fce91a9,Flor de Lis,6.9,['Restaurant'],"Quadra Cln 404 Bloco C Stores 04, 08, 66 and, 70, Brasília, DF, 70845-530",-15.77163,-47.87505
+56ad6537498ef82f889b97bf,La Rubia Cafe,7.3,"['Arts and Entertainment', 'Restaurant']","Scln 404, Brasília, DF, 70845-020",-15.77163,-47.87505
+4dd2572c7d8b4c6585e8df6a,Panificadora Favorita,6.3,"['Bakery', 'Restaurant']","Cln 405 Bl E, Brasília, DF, 70846-550",-15.77163,-47.87505
+56ec9269498eb5feed3fc092,London Street,8.1,"['Pub', 'Restaurant']","CLN 214 Bl. D, Brasília, DF, 70873-540",-15.7431,-47.88667
+4c921bc41adc3704687f35d1,Kaebisch Schokoladen,8.4,"['Dessert Shop', 'Restaurant']","Cln 213 Bl B, Brasília, DF, 70872-520",-15.7431,-47.88667
+54ab0c9c498ea4e6cfd5397f,Cannelle,8.1,"['Coffee Shop', 'Dessert Shop', 'Restaurant']","Quadra Cln 213 Bloco a 23 Asa Norte, Brasília, DF, 70872-510",-15.7431,-47.88667
+4c8d4a0ac37a6dcb45defe7a,C'est si Bon,6.9,['Restaurant'],"Cln 213, Brasília, DF, 70872-510",-15.7431,-47.88667
+4f91a75ee4b0ccf0715bf8b6,Santé 13,8.6,['Restaurant'],"CLN 413 Bl. A, Brasília, DF, 70876-510",-15.7431,-47.88667
+56f43bf4498e8df4939a4c04,Varanda Pães Artesanais,8.1,"['Bakery', 'Coffee Shop', 'Restaurant']","Cln 215, Brasília, DF, 70874-520",-15.7431,-47.88667
+53f69011498e58547290e369,Clandestino Café e Música,8.0,"['Café', 'Coffee Shop', 'Restaurant']","Cln , 413, Brasília, DF, 70876-500",-15.7431,-47.88667
+5b3ec1d97dc9e100381bce68,Blend Boucherie,8.6,['Restaurant'],"SCLN 412, Bloco B Asa Norte, Brasília, DF, 70297-400",-15.7431,-47.88667
+601ed4f798aa6840c17fec2b,Conca Cozinha Original,7.3,['Restaurant'],"Cln 413, Brasília, DF",-15.7431,-47.88667
+588f60367b43b41406c1e57f,Oni-Uno,9.1,"['Ice Cream Parlor', 'Restaurant']","Quadra Clsw 103 Block B Local 1 subsolo (Ed. Rhodes Center I), Brasília, DF, 70670-520",-15.80362,-47.922115
+5b1c4b7e6fd626002c9ec1a0,American Cookies,7.9,"['Dessert Shop', 'Restaurant']","Quadra Clsw, 103, Brasília, DF, 70670-520",-15.80362,-47.922115
+4d10fc329302a35de5907e6e,Amor aos Pedaços,7.4,"['Ice Cream Parlor', 'Restaurant']","Clsw, 102, Brasília, DF, 70670-513",-15.80362,-47.922115
+560ea830498e7c96486154e4,Mysth Culinária Saudável,7.9,['Restaurant'],"Clsw 302, Brasília, DF",-15.80362,-47.922115
+598b2db3c9a51708595d066e,BSBeer,7.6,"['Beer Bar', 'Restaurant']","Clsw 103 Bloco C Lojas 64 e, 66, Brasília, DF, 70670-523",-15.80362,-47.922115
+4c121b89a5eb76b05183bdb7,Pães & Vinhos,7.4,"['Bakery', 'Restaurant']","Clsw, 103, Brasília, DF, 70670-522",-15.80362,-47.922115
+4f9f0290e4b0ad3857b4ab4d,Fran's Café,6.9,"['Café', 'Restaurant']","Clsw 302, Brasília, DF, 70673-613",-15.80362,-47.922115
+4bad2d03f964a520df353be3,Fausto & Manoel,7.9,"['Beer Bar', 'Restaurant']","Clsw 101, Brasília, DF, 70670-503",-15.80362,-47.922115
+588f60367b43b41406c1e57f,Oni-Uno,9.1,"['Ice Cream Parlor', 'Restaurant']","Quadra Clsw 103 Block B Local 1 subsolo (Ed. Rhodes Center I), Brasília, DF, 70670-520",-15.800801,-47.924156
+5b1c4b7e6fd626002c9ec1a0,American Cookies,7.9,"['Dessert Shop', 'Restaurant']","Quadra Clsw, 103, Brasília, DF, 70670-520",-15.800801,-47.924156
+4d10fc329302a35de5907e6e,Amor aos Pedaços,7.4,"['Ice Cream Parlor', 'Restaurant']","Clsw, 102, Brasília, DF, 70670-513",-15.800801,-47.924156
+560ea830498e7c96486154e4,Mysth Culinária Saudável,7.9,['Restaurant'],"Clsw 302, Brasília, DF",-15.800801,-47.924156
+4f3927a7e4b0a82740a31f8c,Nautilus Self-Service,6.1,['Restaurant'],"CLSW 103 Bl. A, Ed. Rhodes Center, Brasília, DF",-15.800801,-47.924156
+4f9f0290e4b0ad3857b4ab4d,Fran's Café,6.9,"['Café', 'Restaurant']","Clsw 302, Brasília, DF, 70673-613",-15.800801,-47.924156
+4c121b89a5eb76b05183bdb7,Pães & Vinhos,7.4,"['Bakery', 'Restaurant']","Clsw, 103, Brasília, DF, 70670-522",-15.800801,-47.924156
+598b2db3c9a51708595d066e,BSBeer,7.6,"['Beer Bar', 'Restaurant']","Clsw 103 Bloco C Lojas 64 e, 66, Brasília, DF, 70670-523",-15.800801,-47.924156
+4dfb39aed22d56d1ebae5099,Bar do Mendes,6.6,"['Dive Bar', 'Restaurant']","Cln 410, Brasília, DF, 70866-120",-15.75394,-47.87968
+4df4e0a2a809141629a74cfd,Bar e Lanchonete Campinense,6.8,"['Bar', 'Restaurant']","Cln, 410, Brasília, DF, 70865-520",-15.75394,-47.87968
+4c02bd8b0d0e0f476193019a,Bar dos Amigos,6.7,"['Bar', 'Restaurant']","Cln 410 (L2), Brasília, DF, 71600-000",-15.75394,-47.87968
+4b7c50f9f964a520eb8b2fe3,Casa de Biscoitos Mineiros,8.1,"['Bakery', 'Dessert Shop', 'Restaurant']","Cln 210 Bl D, Brasília, DF, 70862-540",-15.75394,-47.87968
+5d24f76f7ad1940023fe4026,Casinha Cafe,,"['Pet Café', 'Restaurant']","Asa Norte Comercio Local Norte 411 Block D - Store, 41, Brasília, DF, 70866-540",-15.75394,-47.87968
+548320d7498e202d0f362595,La Petit Boulangerie,9.0,"['Bakery', 'Restaurant']","Cln 212, Brasília, DF",-15.75394,-47.87968
+4ee3beaf77c8e89317797b4b,Pinella,8.3,"['Bar', 'Coffee Shop', 'Restaurant']","Cln 408, Brasília, DF, 70856-520",-15.75394,-47.87968
+4bbdf3d8593fef3b3f0d0456,Bar Godofredo,8.0,"['Bar', 'Restaurant']","Cln 408 Bl B, Brasília, DF, 70856-520",-15.75394,-47.87968
+5383c08c498e22b2a68cd6e5,Tio Gu Café Creperia,8.2,"['Creperie', 'Restaurant']","Quadra Cln 212 Bloco a SCLN, 212, Brasília, DF, 70864-510",-15.75394,-47.87968
+5065beb6e4b03541b8c9105f,Tomate Cereja,7.1,['Restaurant'],"Quadra Cln, 409, Brasília, DF, 70857-540",-15.75394,-47.87968
+55b183d5498e9b7913d4a162,Jungle Acai Bar,7.8,"['Bar', 'Restaurant']","Sn Quadra Cln, 408, Brasília, DF, 70856-530",-15.75394,-47.87968
+4dbb4f06fa8cee72732e3b4c,Fran's Café,6.0,"['Café', 'Coffee Shop', 'Restaurant']","CLN 209 Bl. D, Brasília, DF, 70854-540",-15.75394,-47.87968
+5b3ec1d97dc9e100381bce68,Blend Boucherie,8.6,['Restaurant'],"SCLN 412, Bloco B Asa Norte, Brasília, DF, 70297-400",-15.75394,-47.87968
+560ea830498e7c96486154e4,Mysth Culinária Saudável,7.9,['Restaurant'],"Clsw 302, Brasília, DF",-15.79625,-47.92669
+588f60367b43b41406c1e57f,Oni-Uno,9.1,"['Ice Cream Parlor', 'Restaurant']","Quadra Clsw 103 Block B Local 1 subsolo (Ed. Rhodes Center I), Brasília, DF, 70670-520",-15.79625,-47.92669
+5b1c4b7e6fd626002c9ec1a0,American Cookies,7.9,"['Dessert Shop', 'Restaurant']","Quadra Clsw, 103, Brasília, DF, 70670-520",-15.79625,-47.92669
+4d10fc329302a35de5907e6e,Amor aos Pedaços,7.4,"['Ice Cream Parlor', 'Restaurant']","Clsw, 102, Brasília, DF, 70670-513",-15.79625,-47.92669
+4f9f0290e4b0ad3857b4ab4d,Fran's Café,6.9,"['Café', 'Restaurant']","Clsw 302, Brasília, DF, 70673-613",-15.79625,-47.92669
+4c121b89a5eb76b05183bdb7,Pães & Vinhos,7.4,"['Bakery', 'Restaurant']","Clsw, 103, Brasília, DF, 70670-522",-15.79625,-47.92669
+4d8e84aec479a35de3974897,Família Biscoitos Caseiros,,"['Cafes, Coffee, and Tea Houses', 'Pastry Shop', 'Restaurant']","Ccsw, 6 - Bloco B/C (Ed. Miami Center), Brasília, DF, 70680-650",-15.79625,-47.92669
+598b2db3c9a51708595d066e,BSBeer,7.6,"['Beer Bar', 'Restaurant']","Clsw 103 Bloco C Lojas 64 e, 66, Brasília, DF, 70670-523",-15.79625,-47.92669
+4cd86110da85224b0e374cca,Cachorro Quente do Edivaldo,8.8,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Sqn, 104, Brasília, DF, 70733-000",-15.7742267,-47.884534
+593ff08a9d6a19708d966226,Café Sarah Kubitschek,7.8,"['Coffee Shop', 'Restaurant']","Quadra Cln 304 Bloco B 11-13 Asa Norte, Brasília, DF, 70736-520",-15.7742267,-47.884534
+4b9c1d89f964a520af4b36e3,Daniel Briand Pâtissier & Chocolatier,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Cln 104, Brasília, DF, 70733-510",-15.7742267,-47.884534
+5b116a83419a9e002caec9a6,Quanto Cafe,8.6,"['Coffee Shop', 'Restaurant']","Comercio Local Norte 103 Bloco A Asa Norte, Brasília, DF, 70732-510",-15.7742267,-47.884534
+513f6b9ce4b045a0efdf4af0,Cacau Show,6.2,['Restaurant'],"Quadra Cln 105 Bloco B, 105, Brasília, DF, 70734-520",-15.7742267,-47.884534
+4d7b7dcb7498a1cd49d66afc,Panificadora Pepita,6.3,"['Bakery', 'Restaurant']","Cln 103 Bl D, Brasília, DF, 70732-540",-15.7742267,-47.884534
+4fecca37e4b041ddd80be941,Bioon Cafe,8.1,['Restaurant'],"Cln, 303, Brasília, DF, 70735-520",-15.7742267,-47.884534
+4d7a97c67451236a8f7be4fe,Churrasquinho do Gaúcho,6.9,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","SEPN 504, Bl. C (W2 Norte), Brasília, DF",-15.7742267,-47.884534
+4e0cf1b6aeb7a5b33edb556c,Alexandre's Bar Brasilia,7.4,"['Dive Bar', 'Restaurant']","702/703, Asa Norte, Brasilia, Federal District, Brasília, DF, 70730-515",-15.7742267,-47.884534
+5c1242bd3af988002c40e5eb,Soberani Steak,,['Restaurant'],"Sclrn 706, Brasília, DF, 70740-514",-15.77162,-47.88897
+4cb6216d1b0af04df355ce25,Panificadora Savassi,6.6,"['Bakery', 'Restaurant']","Cln 307 Bl E, Brasília, DF, 70746-550",-15.77162,-47.88897
+593ff08a9d6a19708d966226,Café Sarah Kubitschek,7.8,"['Coffee Shop', 'Restaurant']","Quadra Cln 304 Bloco B 11-13 Asa Norte, Brasília, DF, 70736-520",-15.77162,-47.88897
+5aa805b38c812a4135310e6c,TETA Cheese Bar,8.4,"['Bar', 'Restaurant']","Quadra Cls, 103, Brasília, DF, 70342-520",-15.80585,-47.89368
+4d8c7dc15802236a4092d7d1,Café da Mata,7.3,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Cls, 104, Brasília, DF, 70343-530",-15.80585,-47.89368
+59a9c736d8fe7a0d1398310b,Club Life To Go 103 Sul,6.0,['Restaurant'],"Quadra Cls 103 Bloco C 103 Block C Store, 06 (Cls 103 , Bloco: C), Brasília, DF, 70342-530",-15.80585,-47.89368
+56bbddd6498e5a4544c4966c,Authoral Cozinha,7.6,['Restaurant'],"Scls 302/3 Block A - Store 10 - Asa Sul, Brasilia, Federal District, Brasília, DF, 70338-500",-15.80585,-47.89368
+5cd9df13c62b49002c00203d,Doce Maison,7.0,"['Dessert Shop', 'Restaurant']","Cls 305, Brasília, DF, 70352-510",-15.80585,-47.89368
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.80585,-47.89368
+4b6c6e07f964a5207e392ce3,Bar Brasília,7.7,"['Bar', 'Restaurant']","Crs 506 Bl A, Brasília, DF, 70350-515",-15.80786,-47.90086
+4b548ad9f964a52035bf27e3,La Boulangerie,7.5,"['Bakery', 'Restaurant']","CLS 106 Bl A, S/N, Brasília, DF, 70345-510",-15.80786,-47.90086
+4f782df7e4b06ff836de3af7,Casa do Pão,7.6,"['Bakery', 'Restaurant']","Cls 105, Brasília, DF, 70344-530",-15.80786,-47.90086
+5cd9df13c62b49002c00203d,Doce Maison,7.0,"['Dessert Shop', 'Restaurant']","Cls 305, Brasília, DF, 70352-510",-15.80786,-47.90086
+4c35def67cc0c9b66098f59a,Casa de Biscoitos Mineiros,8.5,"['Bakery', 'Restaurant']","CLS 106 Bl. A, Brasília, DF, 70345-510",-15.80786,-47.90086
+5c71a2f331fd14002c9a9b8b,Jacket Café,7.1,"['Coffee Shop', 'Restaurant']","Quadra Cls, 106, Brasília, DF, 70345-530",-15.80786,-47.90086
+4b548ad9f964a52035bf27e3,La Boulangerie,7.5,"['Bakery', 'Restaurant']","CLS 106 Bl A, S/N, Brasília, DF, 70345-510",-15.81152,-47.90537
+619d80fb3a202144f34776bd,Vasto,7.4,['Restaurant'],"Cls 108, Brasília, DF, 70347-500",-15.81152,-47.90537
+4d860ed6e83fa143175287a1,Cacau Show,7.4,['Restaurant'],"Q Cls 309 Bl C, Brasília, DF, 70362-530",-15.81152,-47.90537
+4b6c6e07f964a5207e392ce3,Bar Brasília,7.7,"['Bar', 'Restaurant']","Crs 506 Bl A, Brasília, DF, 70350-515",-15.81152,-47.90537
+4d2b6558849f3704db259141,Maria Amélia Cafeteria,6.2,"['Café', 'Coffee Shop', 'Restaurant']","CLS 308 Bl. D, Brasília, DF, 70355-540",-15.81152,-47.90537
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.80591,-47.88487
+4d062d7379fd6a310a0c8083,Sabor Glace,7.2,"['Dessert Shop', 'Restaurant']","CLS 201 Bl. B, Brasília, DF, 70232-520",-15.80591,-47.88487
+4b828416f964a5204ad630e3,Bar Brahma,6.9,"['Arts and Entertainment', 'Beer Bar', 'Restaurant']","Cls, 201, Brasília, DF, 70232-530",-15.80591,-47.88487
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.80591,-47.88487
+4bc37f34f8219c749a2cb610,Pão da Hora,5.8,"['Bakery', 'Cafes, Coffee, and Tea Houses', 'Restaurant']","CLS 202 Bloco B, 16, Brasília, DF, 70232-525",-15.80591,-47.88487
+5d2e2c3f61bdc400230314d9,Vert Café,7.4,"['Café', 'Restaurant']","CLS 403 bl B - Asa Sul, Brasília, DF, 70237-520",-15.80591,-47.88487
+594be35d18d43b4517e8952f,Contê Food & Drinks,7.3,['Restaurant'],"CLS 403 Bl. D, Brasília, DF, 70000-000",-15.80591,-47.88487
+56af7334498e4c7de1447c89,Bischoff Gourmet,8.7,['Restaurant'],"SBS quadra, 2, Brasília, DF",-15.80591,-47.88487
+4f6b479ee4b08d2f3ea8e452,Manhattan Restaurante e Lanchonete,7.2,['Restaurant'],"Brasília, DF",-15.80591,-47.88487
+4f340074e4b0befff0a58fd9,Bolos do Rei,7.0,"['Bagel Shop', 'Restaurant']","Quadra Scs Quadra 5 Asa Sul (Centro Comercial Amazonas), Brasília, DF, 70305-000",-15.79728,-47.89144
+4bf3cf0a6a31d13a3cf9942e,The Falls,7.5,['Restaurant'],"Rua Shs Quadra 5 Bloco H e I (Subsolo), Brasília, DF, 70640-087",-15.79728,-47.89144
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.79728,-47.89144
+4e31c5f31495a9fd30d27220,Beer Selection,7.9,"['Bar', 'Restaurant']","South Court Hotel Sector 6, conj. A, Block F, Shop, 56 (Lj. 56), Brasília, DF, 70316-903",-15.79728,-47.89144
+4cf92fe9e8e2548115c6db62,Nazareth Café,7.0,"['Café', 'Restaurant']","Via de Acesso Shigs, 701 (Praça de Alimentação, Térreo), Brasília, DF, 70340-000",-15.79728,-47.89144
+4f4e516ae4b05b49b5cfba3f,Restaurante Sinhá Moça,7.1,['Restaurant'],"Scs Q 3, S/N, Brasília, DF, 70303-901",-15.79728,-47.89144
+4bc4d8632a89ef3b93e9f688,Churchill Lounge Bar,7.9,"['Hotel Bar', 'Whisky Bar', 'Restaurant']","Shs Q, 6 (Meliá Brasil 21), Brasília, DF, 70316-000",-15.79728,-47.89144
+4ce54ac45fce5481dec95aaa,O Pão de Queijo,6.8,"['Café', 'Restaurant']","Galeria dos Estados, Brasília, DF, 70310-500",-15.799,-47.88558
+4f4e516ae4b05b49b5cfba3f,Restaurante Sinhá Moça,7.1,['Restaurant'],"Scs Q 3, S/N, Brasília, DF, 70303-901",-15.799,-47.88558
+56af7334498e4c7de1447c89,Bischoff Gourmet,8.7,['Restaurant'],"SBS quadra, 2, Brasília, DF",-15.799,-47.88558
+4f6b479ee4b08d2f3ea8e452,Manhattan Restaurante e Lanchonete,7.2,['Restaurant'],"Brasília, DF",-15.799,-47.88558
+4f340074e4b0befff0a58fd9,Bolos do Rei,7.0,"['Bagel Shop', 'Restaurant']","Quadra Scs Quadra 5 Asa Sul (Centro Comercial Amazonas), Brasília, DF, 70305-000",-15.799,-47.88558
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.799,-47.88558
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.799,-47.88558
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.799,-47.88558
+4d8c7dc15802236a4092d7d1,Café da Mata,7.3,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Cls, 104, Brasília, DF, 70343-530",-15.80552,-47.89005
+5aa805b38c812a4135310e6c,TETA Cheese Bar,8.4,"['Bar', 'Restaurant']","Quadra Cls, 103, Brasília, DF, 70342-520",-15.80552,-47.89005
+56bbddd6498e5a4544c4966c,Authoral Cozinha,7.6,['Restaurant'],"Scls 302/3 Block A - Store 10 - Asa Sul, Brasilia, Federal District, Brasília, DF, 70338-500",-15.80552,-47.89005
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.80552,-47.89005
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.80552,-47.89005
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.80552,-47.89005
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.80048,-47.894
+56bbddd6498e5a4544c4966c,Authoral Cozinha,7.6,['Restaurant'],"Scls 302/3 Block A - Store 10 - Asa Sul, Brasilia, Federal District, Brasília, DF, 70338-500",-15.80048,-47.894
+4cf92fe9e8e2548115c6db62,Nazareth Café,7.0,"['Café', 'Restaurant']","Via de Acesso Shigs, 701 (Praça de Alimentação, Térreo), Brasília, DF, 70340-000",-15.80048,-47.894
+4d8c7dc15802236a4092d7d1,Café da Mata,7.3,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Cls, 104, Brasília, DF, 70343-530",-15.80048,-47.894
+4f340074e4b0befff0a58fd9,Bolos do Rei,7.0,"['Bagel Shop', 'Restaurant']","Quadra Scs Quadra 5 Asa Sul (Centro Comercial Amazonas), Brasília, DF, 70305-000",-15.80048,-47.894
+4bb65779f562ef3bfe013097,Beirute,8.4,"['Bar', 'Restaurant']","CLN 107 Bl. D, Brasília, DF, 70743-540",-15.765416,-47.8822458
+4cd59ad82944b1f76e1d5eec,Sabor Glacê,8.1,"['Bakery', 'Pastry Shop', 'Restaurant']","Cln 108 Bl C, Brasília, DF, 70744-530",-15.765416,-47.8822458
+4d0b79c29a44370421e1b967,Cacau Show,7.3,['Restaurant'],"Shc Norte Cl Quadra, 108, Brasília, DF, 70744-520",-15.765416,-47.8822458
+520666e711d245fc895f900f,Mesclattino Cafe & Sorvete,7.2,"['Ice Cream Parlor', 'Restaurant']","Bloco D 23 Cln 107 Asa Norte, Brasília, DF, 70743-540",-15.765416,-47.8822458
+4ee3beaf77c8e89317797b4b,Pinella,8.3,"['Bar', 'Coffee Shop', 'Restaurant']","Cln 408, Brasília, DF, 70856-520",-15.765416,-47.8822458
+4bbdf3d8593fef3b3f0d0456,Bar Godofredo,8.0,"['Bar', 'Restaurant']","Cln 408 Bl B, Brasília, DF, 70856-520",-15.765416,-47.8822458
+55b183d5498e9b7913d4a162,Jungle Acai Bar,7.8,"['Bar', 'Restaurant']","Sn Quadra Cln, 408, Brasília, DF, 70856-530",-15.765416,-47.8822458
+55b183d5498e9b7913d4a162,Jungle Acai Bar,7.8,"['Bar', 'Restaurant']","Sn Quadra Cln, 408, Brasília, DF, 70856-530",-15.76071938,-47.87787
+4ee3beaf77c8e89317797b4b,Pinella,8.3,"['Bar', 'Coffee Shop', 'Restaurant']","Cln 408, Brasília, DF, 70856-520",-15.76071938,-47.87787
+4bbdf3d8593fef3b3f0d0456,Bar Godofredo,8.0,"['Bar', 'Restaurant']","Cln 408 Bl B, Brasília, DF, 70856-520",-15.76071938,-47.87787
+5065beb6e4b03541b8c9105f,Tomate Cereja,7.1,['Restaurant'],"Quadra Cln, 409, Brasília, DF, 70857-540",-15.76071938,-47.87787
+4be356c21dd22d7f0a7196bd,Bar Por do Sol,6.3,"['Arts and Entertainment', 'Dive Bar', 'Restaurant']","Cln 408 Bl C, Brasília, DF, 70856-530",-15.76071938,-47.87787
+4b7c50f9f964a520eb8b2fe3,Casa de Biscoitos Mineiros,8.1,"['Bakery', 'Dessert Shop', 'Restaurant']","Cln 210 Bl D, Brasília, DF, 70862-540",-15.76071938,-47.87787
+555a6258498e2f2bc99e991e,Los Baristas . Casa de Cafés,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Quadra Cln 404 Bloco C 38 SCLN, 404, Brasília, DF, 70845-530",-15.769631,-47.878498
+5067317ae4b02bd34405fad8,Pardim,7.1,"['Bar', 'Restaurant']","Quadra Cln, 405, Brasília, DF, 70846-510",-15.769631,-47.878498
+4dd7f75b1f6ee146833009f3,Adega Brasília,7.1,"['Wine Bar', 'Restaurant', 'Winery']","CLN 405 Bl. D, Brasília, DF",-15.769631,-47.878498
+4b4ca6d1f964a520f0b826e3,Sorbe Sorvetes Artesanais,7.0,"['Ice Cream Parlor', 'Restaurant']","Cln 405 Bl C, Brasília, DF, 70846-530",-15.769631,-47.878498
+56ad6537498ef82f889b97bf,La Rubia Cafe,7.3,"['Arts and Entertainment', 'Restaurant']","Scln 404, Brasília, DF, 70845-020",-15.769631,-47.878498
+4d2ca4f2888af04d1e33eaaf,Monjolo Biscoitos Caseiros,7.1,"['Bakery', 'Restaurant']","Cln 404 Bl D, Brasília, DF, 70845-540",-15.769631,-47.878498
+5447bdef498ed3636fce91a9,Flor de Lis,6.9,['Restaurant'],"Quadra Cln 404 Bloco C Stores 04, 08, 66 and, 70, Brasília, DF, 70845-530",-15.769631,-47.878498
+4ee3beaf77c8e89317797b4b,Pinella,8.3,"['Bar', 'Coffee Shop', 'Restaurant']","Cln 408, Brasília, DF, 70856-520",-15.76539,-47.87646
+55b183d5498e9b7913d4a162,Jungle Acai Bar,7.8,"['Bar', 'Restaurant']","Sn Quadra Cln, 408, Brasília, DF, 70856-530",-15.76539,-47.87646
+4bbdf3d8593fef3b3f0d0456,Bar Godofredo,8.0,"['Bar', 'Restaurant']","Cln 408 Bl B, Brasília, DF, 70856-520",-15.76539,-47.87646
+594be35d18d43b4517e8952f,Contê Food & Drinks,7.3,['Restaurant'],"CLS 403 Bl. D, Brasília, DF, 70000-000",-15.8093871,-47.883783
+5d2e2c3f61bdc400230314d9,Vert Café,7.4,"['Café', 'Restaurant']","CLS 403 bl B - Asa Sul, Brasília, DF, 70237-520",-15.8093871,-47.883783
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.8093871,-47.883783
+4b828416f964a5204ad630e3,Bar Brahma,6.9,"['Arts and Entertainment', 'Beer Bar', 'Restaurant']","Cls, 201, Brasília, DF, 70232-530",-15.8093871,-47.883783
+4d062d7379fd6a310a0c8083,Sabor Glace,7.2,"['Dessert Shop', 'Restaurant']","CLS 201 Bl. B, Brasília, DF, 70232-520",-15.8093871,-47.883783
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.8093871,-47.883783
+4dbc01ab43a1d8504b7eb9b7,Forninho Mineiro,7.6,"['Bakery', 'Restaurant']","CLN 402 Bl E, S/N, Brasília, DF, 70834-550",-15.7809333,-47.8742053
+59a838f35a2c911d4c4ab06d,Cardabelle Padaria,7.9,"['Bakery', 'Restaurant']","Quadra Cln, 403, Brasília, DF, 70835-550",-15.7809333,-47.8742053
+4d7fd93edd4a6ea8297d8225,Bar da Codorna,6.3,"['Dive Bar', 'Restaurant']","Cln 403 Bl E, Brasília, DF, 70835-550",-15.7809333,-47.8742053
+4d49c90fb73fb1f7f483ab32,Só Drink's,6.2,"['Sports Bar', 'Restaurant']","Cln 403 Bl D, Brasília, DF, 70835-540",-15.7809333,-47.8742053
+5a8da312838e597879acbc45,Tiborna,6.3,['Restaurant'],"CLN 403 Bl. B, Brasília, DF, 70835-520",-15.7809333,-47.8742053
+58ee8b3123188e08c2d34bb4,Confeitaria Mineira,8.8,"['Pastry Shop', 'Restaurant']","Setor de Autarquias Norte Edificio Banco do Brasil, Brasília, DF, 70040-912",-15.7809333,-47.8742053
+56ba4100498eba5685e021e5,"Deguste, Cozinha e Sabor",7.3,['Restaurant'],"Quadra Cln 202 Bloco D 59 Virado Para o Residencial, Brasília, DF, 70832-545",-15.7809333,-47.8742053
+4da7224a93a04785b90f0886,Flor de Mandacaru,,"['Ice Cream Parlor', 'Restaurant']","Cln, 403, Brasília, DF, 70835-530",-15.7809333,-47.8742053
+4c0684e0cf8c76b0b6963a65,Cristina Colina da Pedra Cafés Especiais,7.8,"['Café', 'Coffee Shop', 'Restaurant']","Cln 202 norte bloco A loja, 45, Brasília, DF, 70832-515",-15.7809333,-47.8742053
+4b69e2e8f964a52044ba2be3,Armazém do Ferreira,7.4,"['Beer Bar', 'Restaurant']","Cln 202 Bl A, Brasília, DF, 70832-515",-15.7809333,-47.8742053
+5268323a498ed0e8da180a6d,Chiquinho Sorvetes,8.1,"['Ice Cream Parlor', 'Restaurant']","Quadra Clsw 100 Bloco a, 29, Brasília, DF, 70670-051",-15.797501,-47.919256
+4f805511e4b06fa5162616ba,Brigadeirando,8.1,"['Dessert Shop', 'Restaurant']","CLSW 100 Bl. A (Sudoeste), Brasília, DF, 70670-051",-15.797501,-47.919256
+4bad2d03f964a520df353be3,Fausto & Manoel,7.9,"['Beer Bar', 'Restaurant']","Clsw 101, Brasília, DF, 70670-503",-15.797501,-47.919256
+539c709e498e9ff3737d77f7,Espaco Sudoeste Bar e Restaurante,7.5,"['Beer Bar', 'Restaurant']","Quadra Clsw 101 Bloco B Lojas 41/48, Brasilia, Federal District (Ed. Multiplus), Brasília, DF, 70670-502",-15.797501,-47.919256
+50cc89e8e4b0881a736849e1,Restaurante Santo Prazer,7.0,['Restaurant'],"Quadra Clsw 301 Divineia, Brasília, DF, 70673-600",-15.797501,-47.919256
+528f729211d2905984e914af,Bella Gula,6.4,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","SQSW 301 Bloco B, 76, Brasília, DF, 70673-102",-15.797501,-47.919256
+59139dc36bdee638c5a6b59c,La Cave Wine Bar,6.7,['Restaurant'],"Quadra CLSW 301 Bloco C - Subsolo (Subsolo), Brasília, DF, 70673-603",-15.797501,-47.919256
+54cfd9cd498e7dd849c102df,Restaurante e Lanchonete Escola Senac,,['Restaurant'],"Praça Municipal, Brasília, DF",-15.7864,-47.91002
+58739c86d4ab735c996073ed,daHORA,,['Restaurant'],"Capital Financial Center, Pç. de Alimentação, Brasília, DF",-15.7864,-47.91002
+5425d253498e962713c32f64,Moto Bar RD-50,8.3,"['Bar', 'Restaurant']","Qmsw 02, Brasília, DF, 70680-200",-15.78524,-47.9136
+5383c08c498e22b2a68cd6e5,Tio Gu Café Creperia,8.2,"['Creperie', 'Restaurant']","Quadra Cln 212 Bloco a SCLN, 212, Brasília, DF, 70864-510",-15.75447,-47.88741
+52ed177c498e5300a9929443,Chocolate Lugano - Asa Norte,7.1,['Restaurant'],"Quadra Cln, 111 (Asa Norte), Brasília, DF, 70754-510",-15.75447,-47.88741
+548320d7498e202d0f362595,La Petit Boulangerie,9.0,"['Bakery', 'Restaurant']","Cln 212, Brasília, DF",-15.75447,-47.88741
+5682ee79498e148ae235ced0,Philippe Verstraete Pâtisserie e Boulangerie,6.4,"['Bakery', 'Dessert Shop', 'Restaurant']","S CLN 310 BLoco A shop 4 Comercio Local Norte, Brasília, DF, 70756-510",-15.75447,-47.88741
+548b5911498ecccac953fc61,Café Oyá,7.3,"['Café', 'Restaurant']","CLN 307 Blc A, 10, Brasília, DF, 70752-510",-15.75447,-47.88741
+59bbf95df79faa5f1e79bea8,Fogão Goiano,7.8,['Restaurant'],"Nucleo bandeirante Nucleo Bandeirante, Brasília, DF, 70760-531",-15.75565,-47.89678
+4ce43e55c850721e6424c28a,Panificadora Pão Prima,6.0,"['Bakery', 'Restaurant']","Scrn 711, Brasília, DF, 70750-660",-15.75565,-47.89678
+5aa805b38c812a4135310e6c,TETA Cheese Bar,8.4,"['Bar', 'Restaurant']","Quadra Cls, 103, Brasília, DF, 70342-520",-15.80371,-47.89677
+56bbddd6498e5a4544c4966c,Authoral Cozinha,7.6,['Restaurant'],"Scls 302/3 Block A - Store 10 - Asa Sul, Brasilia, Federal District, Brasília, DF, 70338-500",-15.80371,-47.89677
+4d8c7dc15802236a4092d7d1,Café da Mata,7.3,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Cls, 104, Brasília, DF, 70343-530",-15.80371,-47.89677
+5cd9df13c62b49002c00203d,Doce Maison,7.0,"['Dessert Shop', 'Restaurant']","Cls 305, Brasília, DF, 70352-510",-15.80371,-47.89677
+4d809fa0577eb1f71d2fabd3,Rei do Pão de Queijo,7.8,"['Café', 'Restaurant']","Cls 302, Brasília, DF, 70338-500",-15.80371,-47.89677
+4b6c6e07f964a5207e392ce3,Bar Brasília,7.7,"['Bar', 'Restaurant']","Crs 506 Bl A, Brasília, DF, 70350-515",-15.80371,-47.89677
+59a9c736d8fe7a0d1398310b,Club Life To Go 103 Sul,6.0,['Restaurant'],"Quadra Cls 103 Bloco C 103 Block C Store, 06 (Cls 103 , Bloco: C), Brasília, DF, 70342-530",-15.80371,-47.89677
+4e31c5f31495a9fd30d27220,Beer Selection,7.9,"['Bar', 'Restaurant']","South Court Hotel Sector 6, conj. A, Block F, Shop, 56 (Lj. 56), Brasília, DF, 70316-903",-15.79498,-47.89508
+4bc4d8632a89ef3b93e9f688,Churchill Lounge Bar,7.9,"['Hotel Bar', 'Whisky Bar', 'Restaurant']","Shs Q, 6 (Meliá Brasil 21), Brasília, DF, 70316-000",-15.79498,-47.89508
+4bf3cf0a6a31d13a3cf9942e,The Falls,7.5,['Restaurant'],"Rua Shs Quadra 5 Bloco H e I (Subsolo), Brasília, DF, 70640-087",-15.79498,-47.89508
+4cf92fe9e8e2548115c6db62,Nazareth Café,7.0,"['Café', 'Restaurant']","Via de Acesso Shigs, 701 (Praça de Alimentação, Térreo), Brasília, DF, 70340-000",-15.79498,-47.89508
+554221b7498e0d64af8172ff,Dunkin' Donuts,6.1,"['Donut Shop', 'Restaurant']","Quadra Cls, 404, Brasília, DF, 70238-520",-15.81576,-47.88963
+5bbf5ad99b0473002c115d0b,Cremeria Italiana,7.7,"['Ice Cream Parlor', 'Restaurant']","Quadra Cls 206 Block b Store 2 e, 4, Brasília, DF, 70252-500",-15.81576,-47.88963
+4beae8836295c9b63a048708,Gamela Biscoitos Caseiros,8.5,"['Bakery', 'Coffee Shop', 'Restaurant']","Cls 406, Brasília, DF, 70255-540",-15.81576,-47.88963
+559c711c498e370cbe0a00c3,Fausto&Manoel 406 Sul,8.6,"['Bar', 'Restaurant']","SCLS 406 Bl. A, Brasília, DF, 70255-510",-15.81576,-47.88963
+4c0a8dff6071a593e8bedf32,Confeitaria Francesa,5.6,"['Bakery', 'Pastry Shop', 'Restaurant']","CLS 205 Bl C, S/N, Brasília, DF, 70233-530",-15.81078,-47.88899
+5d2e2c3f61bdc400230314d9,Vert Café,7.4,"['Café', 'Restaurant']","CLS 403 bl B - Asa Sul, Brasília, DF, 70237-520",-15.81078,-47.88899
+594be35d18d43b4517e8952f,Contê Food & Drinks,7.3,['Restaurant'],"CLS 403 Bl. D, Brasília, DF, 70000-000",-15.81078,-47.88899
+5aa805b38c812a4135310e6c,TETA Cheese Bar,8.4,"['Bar', 'Restaurant']","Quadra Cls, 103, Brasília, DF, 70342-520",-15.81078,-47.88899
+619d80fb3a202144f34776bd,Vasto,7.4,['Restaurant'],"Cls 108, Brasília, DF, 70347-500",-15.81428,-47.90281
+4b548ad9f964a52035bf27e3,La Boulangerie,7.5,"['Bakery', 'Restaurant']","CLS 106 Bl A, S/N, Brasília, DF, 70345-510",-15.81428,-47.90281
+4d860ed6e83fa143175287a1,Cacau Show,7.4,['Restaurant'],"Q Cls 309 Bl C, Brasília, DF, 70362-530",-15.81428,-47.90281
+4c35def67cc0c9b66098f59a,Casa de Biscoitos Mineiros,8.5,"['Bakery', 'Restaurant']","CLS 106 Bl. A, Brasília, DF, 70345-510",-15.81428,-47.90281
+4bad620ff964a520584c3be3,Beirute,8.1,"['Arts and Entertainment', 'Bar', 'Restaurant']","CLS 109 Bl. A, Brasília, DF, 70372-510",-15.81845,-47.90425
+619d80fb3a202144f34776bd,Vasto,7.4,['Restaurant'],"Cls 108, Brasília, DF, 70347-500",-15.81845,-47.90425
+5bb8034dfe3740002c40edd2,Brazilian Ice Cream,8.1,"['Ice Cream Parlor', 'Restaurant']","CLSW 301, Bl. C, Brasília, DF, 70673-603",-15.81845,-47.90425
+4d860ed6e83fa143175287a1,Cacau Show,7.4,['Restaurant'],"Q Cls 309 Bl C, Brasília, DF, 70362-530",-15.81845,-47.90425
+5981daf2898bdc5770fb6885,Publican Bar Cervejas Especiais,8.6,"['Bar', 'Brewery', 'Restaurant']","Quadra Cls, 409, Brasília, DF, 70258-510",-15.81845,-47.90425
+4b4def03f964a52075db26e3,Universal Diner,8.2,['Restaurant'],"Cls 210, Brasília, DF, 70273-530",-15.81845,-47.90425
+559c711c498e370cbe0a00c3,Fausto&Manoel 406 Sul,8.6,"['Bar', 'Restaurant']","SCLS 406 Bl. A, Brasília, DF, 70255-510",-15.81975,-47.89879
+4bb49f8f15809c7415891fdd,Stans Chocolates,7.7,"['Coffee Shop', 'Restaurant']","Cls 407 Bl A, Brasília, DF, 70256-510",-15.81975,-47.89879
+4beae8836295c9b63a048708,Gamela Biscoitos Caseiros,8.5,"['Bakery', 'Coffee Shop', 'Restaurant']","Cls 406, Brasília, DF, 70255-540",-15.81975,-47.89879
+5981daf2898bdc5770fb6885,Publican Bar Cervejas Especiais,8.6,"['Bar', 'Brewery', 'Restaurant']","Quadra Cls, 409, Brasília, DF, 70258-510",-15.81975,-47.89879
+4c72a4f457b6a1435601c6cc,Kopenhagen,8.4,"['Coffee Shop', 'Restaurant']","Pátio Brasil Shopping, Brasília, DF, 70715-900",-15.78696,-47.88786
+59305853e65d0c1908f0fec1,Restaurante Vila Cinco,7.6,['Restaurant'],"Brasília, DF, 70715-900",-15.78696,-47.88786
+61bd01181dff746a82167383,Camarada Camarão,7.2,['Restaurant'],"Shopping ID, Brasília, DF, 70297-400",-15.78696,-47.88786
+4ee8cb055c5c99a2dc601b36,Cacau Show,7.2,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Liberty Shopping - Piso 1, SCN, 2 (Térreo, Lj. T411), Brasília, DF, 70712-904",-15.78696,-47.88786
+515cceace4b0c49b3f20da69,Malbec Beer,8.1,"['Bar', 'Brewery', 'Restaurant']","Shn Quadra, 1 (Térreo), Brasília, DF, 70701-010",-15.78696,-47.88786
+4beae8836295c9b63a048708,Gamela Biscoitos Caseiros,8.5,"['Bakery', 'Coffee Shop', 'Restaurant']","Cls 406, Brasília, DF, 70255-540",-15.820776,-47.89532
+559c711c498e370cbe0a00c3,Fausto&Manoel 406 Sul,8.6,"['Bar', 'Restaurant']","SCLS 406 Bl. A, Brasília, DF, 70255-510",-15.820776,-47.89532
+4bb49f8f15809c7415891fdd,Stans Chocolates,7.7,"['Coffee Shop', 'Restaurant']","Cls 407 Bl A, Brasília, DF, 70256-510",-15.820776,-47.89532
+646011e455fc495e0e1d4701,La Boca,,['Restaurant'],"Scls 407, Brasília, DF, 70256-510",-15.820776,-47.89532
+5981daf2898bdc5770fb6885,Publican Bar Cervejas Especiais,8.6,"['Bar', 'Brewery', 'Restaurant']","Quadra Cls, 409, Brasília, DF, 70258-510",-15.820776,-47.89532
+5bbf5ad99b0473002c115d0b,Cremeria Italiana,7.7,"['Ice Cream Parlor', 'Restaurant']","Quadra Cls 206 Block b Store 2 e, 4, Brasília, DF, 70252-500",-15.81603,-47.89383
+559c711c498e370cbe0a00c3,Fausto&Manoel 406 Sul,8.6,"['Bar', 'Restaurant']","SCLS 406 Bl. A, Brasília, DF, 70255-510",-15.81603,-47.89383
+4b4daf8cf964a520b9d526e3,Praline Confeitaria Suíça,6.8,"['Bakery', 'Pastry Shop', 'Restaurant']","Cls 205 Bl A, Brasília, DF, 70235-510",-15.81603,-47.89383
+4beae8836295c9b63a048708,Gamela Biscoitos Caseiros,8.5,"['Bakery', 'Coffee Shop', 'Restaurant']","Cls 406, Brasília, DF, 70255-540",-15.81603,-47.89383
+4bb49f8f15809c7415891fdd,Stans Chocolates,7.7,"['Coffee Shop', 'Restaurant']","Cls 407 Bl A, Brasília, DF, 70256-510",-15.81603,-47.89383
+4c35def67cc0c9b66098f59a,Casa de Biscoitos Mineiros,8.5,"['Bakery', 'Restaurant']","CLS 106 Bl. A, Brasília, DF, 70345-510",-15.81603,-47.89383
+548320d7498e202d0f362595,La Petit Boulangerie,9.0,"['Bakery', 'Restaurant']","Cln 212, Brasília, DF",-15.751378,-47.883785
+5383c08c498e22b2a68cd6e5,Tio Gu Café Creperia,8.2,"['Creperie', 'Restaurant']","Quadra Cln 212 Bloco a SCLN, 212, Brasília, DF, 70864-510",-15.751378,-47.883785
+5a60c8855f68b9665a5c751b,Club Life To Go,6.4,['Restaurant'],"CLN 211 Bl. B, Brasília, DF, 70863-520",-15.751378,-47.883785
+5b3ec1d97dc9e100381bce68,Blend Boucherie,8.6,['Restaurant'],"SCLN 412, Bloco B Asa Norte, Brasília, DF, 70297-400",-15.751378,-47.883785
+4f91a75ee4b0ccf0715bf8b6,Santé 13,8.6,['Restaurant'],"CLN 413 Bl. A, Brasília, DF, 70876-510",-15.751378,-47.883785
+53f69011498e58547290e369,Clandestino Café e Música,8.0,"['Café', 'Coffee Shop', 'Restaurant']","Cln , 413, Brasília, DF, 70876-500",-15.751378,-47.883785
+4df4e0a2a809141629a74cfd,Bar e Lanchonete Campinense,6.8,"['Bar', 'Restaurant']","Cln, 410, Brasília, DF, 70865-520",-15.751378,-47.883785
+4c02bd8b0d0e0f476193019a,Bar dos Amigos,6.7,"['Bar', 'Restaurant']","Cln 410 (L2), Brasília, DF, 71600-000",-15.751378,-47.883785
+4dfb39aed22d56d1ebae5099,Bar do Mendes,6.6,"['Dive Bar', 'Restaurant']","Cln 410, Brasília, DF, 70866-120",-15.751378,-47.883785
+601ed4f798aa6840c17fec2b,Conca Cozinha Original,7.3,['Restaurant'],"Cln 413, Brasília, DF",-15.751378,-47.883785
+52ed9f1e498e015e70af20c3,Victrola,6.7,"['Cocktail Bar', 'Restaurant']","CLN 413, Bl. E, Brasília, DF, 70876-550",-15.751378,-47.883785
+4b7c50f9f964a520eb8b2fe3,Casa de Biscoitos Mineiros,8.1,"['Bakery', 'Dessert Shop', 'Restaurant']","Cln 210 Bl D, Brasília, DF, 70862-540",-15.751378,-47.883785
+4e97331df5b91722c72e3cf2,Delícia de Bolo,8.1,"['Café', 'Restaurant']","Sclrn 709, Brasília, DF, 70750-510",-15.7586355,-47.89290279999999
+52334df0498e5e4e3b0e54df,Tartaruga Self Service,7.4,['Restaurant'],"Brasília, DF",-15.7586355,-47.89290279999999
+4ce43e55c850721e6424c28a,Panificadora Pão Prima,6.0,"['Bakery', 'Restaurant']","Scrn 711, Brasília, DF, 70750-660",-15.7586355,-47.89290279999999
+537f6252498e54e075c1b714,Dulce Patagonia,8.9,"['Café', 'Pastry Shop', 'Restaurant']","Cln 309 Bl C, Brasília, DF, 70755-530",-15.7586355,-47.89290279999999
+5682ee79498e148ae235ced0,Philippe Verstraete Pâtisserie e Boulangerie,6.4,"['Bakery', 'Dessert Shop', 'Restaurant']","S CLN 310 BLoco A shop 4 Comercio Local Norte, Brasília, DF, 70756-510",-15.7586355,-47.89290279999999
+4f550614e4b02cf6c0b5dcd8,Plataforma da Alimentação-Restaurante da SEE/DF,,['Restaurant'],"Sgan 607, Brasília, DF",-15.765081,-47.870828
+4dd7f75b1f6ee146833009f3,Adega Brasília,7.1,"['Wine Bar', 'Restaurant', 'Winery']","CLN 405 Bl. D, Brasília, DF",-15.765081,-47.870828
+58751ea7faba402c87db33ac,Restaurante Universitario,,['Restaurant'],"Campus da Unb 1 Area Universitaria Planaltina, Brasília, 73345-010",-15.766054,-47.867025
+56af7334498e4c7de1447c89,Bischoff Gourmet,8.7,['Restaurant'],"SBS quadra, 2, Brasília, DF",-15.80433,-47.87934
+4f6b479ee4b08d2f3ea8e452,Manhattan Restaurante e Lanchonete,7.2,['Restaurant'],"Brasília, DF",-15.80433,-47.87934
+5970d24c35811b1c182864cb,Oliva Restaurante,,['Restaurant'],"Brasília, DF, 70070-938",-15.80433,-47.87934
+5016a931e4b08f147d7e4bb5,Restaurante do Superior Tribunal Militar,7.0,['Restaurant'],"Brasília, DF",-15.80433,-47.87934
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.80433,-47.87934
+4b828416f964a5204ad630e3,Bar Brahma,6.9,"['Arts and Entertainment', 'Beer Bar', 'Restaurant']","Cls, 201, Brasília, DF, 70232-530",-15.80433,-47.87934
+4d062d7379fd6a310a0c8083,Sabor Glace,7.2,"['Dessert Shop', 'Restaurant']","CLS 201 Bl. B, Brasília, DF, 70232-520",-15.80433,-47.87934
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.80433,-47.87934
+4f782df7e4b06ff836de3af7,Casa do Pão,7.6,"['Bakery', 'Restaurant']","Cls 105, Brasília, DF, 70344-530",-15.81039,-47.89803
+4c35def67cc0c9b66098f59a,Casa de Biscoitos Mineiros,8.5,"['Bakery', 'Restaurant']","CLS 106 Bl. A, Brasília, DF, 70345-510",-15.81039,-47.89803
+5c71a2f331fd14002c9a9b8b,Jacket Café,7.1,"['Coffee Shop', 'Restaurant']","Quadra Cls, 106, Brasília, DF, 70345-530",-15.81039,-47.89803
+4b6c6e07f964a5207e392ce3,Bar Brasília,7.7,"['Bar', 'Restaurant']","Crs 506 Bl A, Brasília, DF, 70350-515",-15.81039,-47.89803
+5cd9df13c62b49002c00203d,Doce Maison,7.0,"['Dessert Shop', 'Restaurant']","Cls 305, Brasília, DF, 70352-510",-15.81039,-47.89803
+4b548ad9f964a52035bf27e3,La Boulangerie,7.5,"['Bakery', 'Restaurant']","CLS 106 Bl A, S/N, Brasília, DF, 70345-510",-15.81039,-47.89803
+586e73b018dc533cf93b7757,Castália Padaria e Café,8.8,"['Bakery', 'Restaurant']","CLN 102 Norte, Bloco D Lojas 64/74, Brasilia, Federal District, Brasília, DF, 70722-540",-15.78307,-47.88402
+4be2ed95b02ec9b6c3084ec0,Torteria Dominó,7.8,"['Dessert Shop', 'Restaurant']","Cln 102 Bl D, Brasília, DF, 70722-540",-15.78307,-47.88402
+4bb0ebccf964a5204f6a3ce3,Objeto Encontrado,8.3,"['Café', 'Restaurant']","Cln 102, Brasília, DF, 70722-520",-15.78307,-47.88402
+4b996daff964a520df7a35e3,Velvet Pub,8.1,"['Night Club', 'Bar', 'Restaurant']","Cln 102, Brasília, DF, 70722-520",-15.78307,-47.88402
+4b80719ef964a520f17230e3,Fran's Café,6.9,"['Café', 'Restaurant']","Edifício Doutor Crispim, Quadra 2, lojas 11/12/13 (Térreo), Brasília, DF, 70710-100",-15.78307,-47.88402
+4fecca37e4b041ddd80be941,Bioon Cafe,8.1,['Restaurant'],"Cln, 303, Brasília, DF, 70735-520",-15.78307,-47.88402
+4d29ed054ab78eec253d3026,Nutrifresh - Alimentação Inteligente,7.0,['Restaurant'],"CLN 303 Bl. A, Brasília, DF, 70735-530",-15.78307,-47.88402
+4f205de8e4b01d409969c2ed,O Carioca Lanches Especiais,6.8,['Restaurant'],"Quadra Cln 303 Bloco D Q, 303, Brasília, DF, 70735-540",-15.78307,-47.88402
+4ee8cb055c5c99a2dc601b36,Cacau Show,7.2,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Liberty Shopping - Piso 1, SCN, 2 (Térreo, Lj. T411), Brasília, DF, 70712-904",-15.78307,-47.88402
+5b116a83419a9e002caec9a6,Quanto Cafe,8.6,"['Coffee Shop', 'Restaurant']","Comercio Local Norte 103 Bloco A Asa Norte, Brasília, DF, 70732-510",-15.78307,-47.88402
+4c0684e0cf8c76b0b6963a65,Cristina Colina da Pedra Cafés Especiais,7.8,"['Café', 'Coffee Shop', 'Restaurant']","Cln 202 norte bloco A loja, 45, Brasília, DF, 70832-515",-15.78307,-47.88402
+4b69e2e8f964a52044ba2be3,Armazém do Ferreira,7.4,"['Beer Bar', 'Restaurant']","Cln 202 Bl A, Brasília, DF, 70832-515",-15.78307,-47.88402
+4b9c1d89f964a520af4b36e3,Daniel Briand Pâtissier & Chocolatier,8.5,"['Café', 'Coffee Shop', 'Restaurant']","Cln 104, Brasília, DF, 70733-510",-15.78307,-47.88402
+4e0cf1b6aeb7a5b33edb556c,Alexandre's Bar Brasilia,7.4,"['Dive Bar', 'Restaurant']","702/703, Asa Norte, Brasilia, Federal District, Brasília, DF, 70730-515",-15.78307,-47.88402
+4cb6216d1b0af04df355ce25,Panificadora Savassi,6.6,"['Bakery', 'Restaurant']","Cln 307 Bl E, Brasília, DF, 70746-550",-15.76929,-47.8925
+5c1242bd3af988002c40e5eb,Soberani Steak,,['Restaurant'],"Sclrn 706, Brasília, DF, 70740-514",-15.76929,-47.8925
+4e0cf1b6aeb7a5b33edb556c,Alexandre's Bar Brasilia,7.4,"['Dive Bar', 'Restaurant']","702/703, Asa Norte, Brasilia, Federal District, Brasília, DF, 70730-515",-15.78104,-47.89076
+4fecca37e4b041ddd80be941,Bioon Cafe,8.1,['Restaurant'],"Cln, 303, Brasília, DF, 70735-520",-15.78104,-47.89076
+4d7a97c67451236a8f7be4fe,Churrasquinho do Gaúcho,6.9,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","SEPN 504, Bl. C (W2 Norte), Brasília, DF",-15.78104,-47.89076
+4c72a4f457b6a1435601c6cc,Kopenhagen,8.4,"['Coffee Shop', 'Restaurant']","Pátio Brasil Shopping, Brasília, DF, 70715-900",-15.78104,-47.89076
+4f205de8e4b01d409969c2ed,O Carioca Lanches Especiais,6.8,['Restaurant'],"Quadra Cln 303 Bloco D Q, 303, Brasília, DF, 70735-540",-15.78104,-47.89076
+59305853e65d0c1908f0fec1,Restaurante Vila Cinco,7.6,['Restaurant'],"Brasília, DF, 70715-900",-15.78104,-47.89076
+586e73b018dc533cf93b7757,Castália Padaria e Café,8.8,"['Bakery', 'Restaurant']","CLN 102 Norte, Bloco D Lojas 64/74, Brasilia, Federal District, Brasília, DF, 70722-540",-15.78104,-47.89076
+515cceace4b0c49b3f20da69,Malbec Beer,8.1,"['Bar', 'Brewery', 'Restaurant']","Shn Quadra, 1 (Térreo), Brasília, DF, 70701-010",-15.7911,-47.8867
+4cb395411168a093a1314323,Cacau Show,8.6,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.7911,-47.8867
+4bb3624a2397b713070338b3,Kopenhagen,7.6,"['Coffee Shop', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.7911,-47.8867
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.7911,-47.8867
+5706d023498eb7eb702acffe,Gádio Café,7.2,"['Café', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.7911,-47.8867
+4c72a4f457b6a1435601c6cc,Kopenhagen,8.4,"['Coffee Shop', 'Restaurant']","Pátio Brasil Shopping, Brasília, DF, 70715-900",-15.7911,-47.8867
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.7911,-47.8867
+61bd01181dff746a82167383,Camarada Camarão,7.2,['Restaurant'],"Shopping ID, Brasília, DF, 70297-400",-15.78813,-47.89467
+4bc4d8632a89ef3b93e9f688,Churchill Lounge Bar,7.9,"['Hotel Bar', 'Whisky Bar', 'Restaurant']","Shs Q, 6 (Meliá Brasil 21), Brasília, DF, 70316-000",-15.78813,-47.89467
+4c72a4f457b6a1435601c6cc,Kopenhagen,8.4,"['Coffee Shop', 'Restaurant']","Pátio Brasil Shopping, Brasília, DF, 70715-900",-15.78813,-47.89467
+59305853e65d0c1908f0fec1,Restaurante Vila Cinco,7.6,['Restaurant'],"Brasília, DF, 70715-900",-15.78813,-47.89467
+4e31c5f31495a9fd30d27220,Beer Selection,7.9,"['Bar', 'Restaurant']","South Court Hotel Sector 6, conj. A, Block F, Shop, 56 (Lj. 56), Brasília, DF, 70316-903",-15.78813,-47.89467
+4cb395411168a093a1314323,Cacau Show,8.6,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79356,-47.8813
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.79356,-47.8813
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.79356,-47.8813
+53ee2c96498ecb2bcceb5fba,Downtown Restaurante Escola SENAC,8.4,['Restaurant'],"St. Bancario Norte 1 - Asa Norte, Brasília, DF",-15.79356,-47.8813
+4bb3624a2397b713070338b3,Kopenhagen,7.6,"['Coffee Shop', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79356,-47.8813
+4cb395411168a093a1314323,Cacau Show,8.6,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79276,-47.88358
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.79276,-47.88358
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.79276,-47.88358
+4bb3624a2397b713070338b3,Kopenhagen,7.6,"['Coffee Shop', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79276,-47.88358
+515cceace4b0c49b3f20da69,Malbec Beer,8.1,"['Bar', 'Brewery', 'Restaurant']","Shn Quadra, 1 (Térreo), Brasília, DF, 70701-010",-15.79276,-47.88358
+5706d023498eb7eb702acffe,Gádio Café,7.2,"['Café', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79276,-47.88358
+53ee2c96498ecb2bcceb5fba,Downtown Restaurante Escola SENAC,8.4,['Restaurant'],"St. Bancario Norte 1 - Asa Norte, Brasília, DF",-15.79276,-47.88358
+587d179665e7c7514cddd3ab,Restaurante Ministério Comunicações / Transporte,,['Restaurant'],"Anexo MC-MT, Brasília, DF",-15.79751,-47.86669
+4cb395411168a093a1314323,Cacau Show,8.6,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79297,-47.882997
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.79297,-47.882997
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.79297,-47.882997
+4bb3624a2397b713070338b3,Kopenhagen,7.6,"['Coffee Shop', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79297,-47.882997
+53ee2c96498ecb2bcceb5fba,Downtown Restaurante Escola SENAC,8.4,['Restaurant'],"St. Bancario Norte 1 - Asa Norte, Brasília, DF",-15.79297,-47.882997
+5706d023498eb7eb702acffe,Gádio Café,7.2,"['Café', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.79297,-47.882997
+5751ac14498e458bc6f7ac83,Restaurante Sesi - MS,,['Restaurant'],"Brasília, DF",-15.7993,-47.86937
+58a72c5bef787f06a0afbd31,Nature Restaurante,,['Restaurant'],"Esplanada dos Ministérios Bl C - Zona Cívico - Administrativo, Brasília, DF, 70040-906",-15.7993,-47.86937
+50351053e4b04416d6ae3ff1,Master Restaurante,,['Restaurant'],"Anexo Ministério do Trabalho, Brasília, DF",-15.7993,-47.86937
+50928f36e4b0f2ad78e68beb,Restaurante MEC,,['Restaurant'],"Brasília, DF",-15.79825,-47.87266
+5016a931e4b08f147d7e4bb5,Restaurante do Superior Tribunal Militar,7.0,['Restaurant'],"Brasília, DF",-15.79825,-47.87266
+5016a931e4b08f147d7e4bb5,Restaurante do Superior Tribunal Militar,7.0,['Restaurant'],"Brasília, DF",-15.79762,-47.87458
+56af7334498e4c7de1447c89,Bischoff Gourmet,8.7,['Restaurant'],"SBS quadra, 2, Brasília, DF",-15.79762,-47.87458
+4f6b479ee4b08d2f3ea8e452,Manhattan Restaurante e Lanchonete,7.2,['Restaurant'],"Brasília, DF",-15.79762,-47.87458
+58a72c5bef787f06a0afbd31,Nature Restaurante,,['Restaurant'],"Esplanada dos Ministérios Bl C - Zona Cívico - Administrativo, Brasília, DF, 70040-906",-15.79626,-47.87105
+547e0420498e1c40200c626e,La Famiglia,,['Restaurant'],"Ministério do Desenvolvimento, Indústria e Comércio Exterior, Brasília, DF",-15.79626,-47.87105
+53ee2c96498ecb2bcceb5fba,Downtown Restaurante Escola SENAC,8.4,['Restaurant'],"St. Bancario Norte 1 - Asa Norte, Brasília, DF",-15.79521,-47.87454
+5016a931e4b08f147d7e4bb5,Restaurante do Superior Tribunal Militar,7.0,['Restaurant'],"Brasília, DF",-15.79521,-47.87454
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.79521,-47.87454
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.79521,-47.87454
+4e31c5f31495a9fd30d27220,Beer Selection,7.9,"['Bar', 'Restaurant']","South Court Hotel Sector 6, conj. A, Block F, Shop, 56 (Lj. 56), Brasília, DF, 70316-903",-15.792664,-47.89194969
+4bc4d8632a89ef3b93e9f688,Churchill Lounge Bar,7.9,"['Hotel Bar', 'Whisky Bar', 'Restaurant']","Shs Q, 6 (Meliá Brasil 21), Brasília, DF, 70316-000",-15.792664,-47.89194969
+4bf3cf0a6a31d13a3cf9942e,The Falls,7.5,['Restaurant'],"Rua Shs Quadra 5 Bloco H e I (Subsolo), Brasília, DF, 70640-087",-15.792664,-47.89194969
+645e3fc8be61502ae20774d0,Quintal do Coco,,['Restaurant'],"Mercado Mané (Lj. 4), Brasília, DF",-15.78611,-47.9007
+54cfd9cd498e7dd849c102df,Restaurante e Lanchonete Escola Senac,,['Restaurant'],"Praça Municipal, Brasília, DF",-15.78611,-47.9007
+4bc4d8632a89ef3b93e9f688,Churchill Lounge Bar,7.9,"['Hotel Bar', 'Whisky Bar', 'Restaurant']","Shs Q, 6 (Meliá Brasil 21), Brasília, DF, 70316-000",-15.7911626,-47.8976
+4e31c5f31495a9fd30d27220,Beer Selection,7.9,"['Bar', 'Restaurant']","South Court Hotel Sector 6, conj. A, Block F, Shop, 56 (Lj. 56), Brasília, DF, 70316-903",-15.7911626,-47.8976
+4bf3cf0a6a31d13a3cf9942e,The Falls,7.5,['Restaurant'],"Rua Shs Quadra 5 Bloco H e I (Subsolo), Brasília, DF, 70640-087",-15.7911626,-47.8976
+4c2d4388e307d13a539f0dda,Chiquinhos Bar,5.6,"['Bar', 'Restaurant']","Cln 312 Bl B, S/N, Brasília, DF, 70765-520",-15.75038,-47.89166
+4e85de2da17cd14ccd8f015a,Iaga Arte e Café,5.8,"['Café', 'Coffee Shop', 'Restaurant']","CLN 313 Bl. A, Brasília, DF, 70766-510",-15.75038,-47.89166
+59bbf95df79faa5f1e79bea8,Fogão Goiano,7.8,['Restaurant'],"Nucleo bandeirante Nucleo Bandeirante, Brasília, DF, 70760-531",-15.75038,-47.89166
+52ed177c498e5300a9929443,Chocolate Lugano - Asa Norte,7.1,['Restaurant'],"Quadra Cln, 111 (Asa Norte), Brasília, DF, 70754-510",-15.75038,-47.89166
+4c45cf8836d6a593095f6ca8,Bar do Silvio,7.9,"['Bar', 'Restaurant']","Cln 114 Bl D, Brasília, DF, 70764-540",-15.75038,-47.89166
+5b64aed85d891b002c92e7db,Ilgiorno,7.3,"['Ice Cream Parlor', 'Restaurant']","Quadra Cln 113 Bl. A, Brasília, DF, 70763-500",-15.75038,-47.89166
+5383c08c498e22b2a68cd6e5,Tio Gu Café Creperia,8.2,"['Creperie', 'Restaurant']","Quadra Cln 212 Bloco a SCLN, 212, Brasília, DF, 70864-510",-15.75038,-47.89166
+4ce54ac45fce5481dec95aaa,O Pão de Queijo,6.8,"['Café', 'Restaurant']","Galeria dos Estados, Brasília, DF, 70310-500",-15.79974,-47.88411
+56af7334498e4c7de1447c89,Bischoff Gourmet,8.7,['Restaurant'],"SBS quadra, 2, Brasília, DF",-15.79974,-47.88411
+4f6b479ee4b08d2f3ea8e452,Manhattan Restaurante e Lanchonete,7.2,['Restaurant'],"Brasília, DF",-15.79974,-47.88411
+4f4e516ae4b05b49b5cfba3f,Restaurante Sinhá Moça,7.1,['Restaurant'],"Scs Q 3, S/N, Brasília, DF, 70303-901",-15.79974,-47.88411
+5d2774e599a98b0023c894e0,Casa Graviola,7.6,['Restaurant'],"Asa Sul CLS 202 Block B Store, 34, Brasília, DF, 70232-525",-15.79974,-47.88411
+5016a931e4b08f147d7e4bb5,Restaurante do Superior Tribunal Militar,7.0,['Restaurant'],"Brasília, DF",-15.79974,-47.88411
+4d062d7379fd6a310a0c8083,Sabor Glace,7.2,"['Dessert Shop', 'Restaurant']","CLS 201 Bl. B, Brasília, DF, 70232-520",-15.79974,-47.88411
+57067ff2498e41e1630e7b0e,Buteco da Boa,7.1,"['Bar', 'Restaurant']","Quadra Cls, 201, Brasília, DF, 70232-550",-15.79974,-47.88411
+4b828416f964a5204ad630e3,Bar Brahma,6.9,"['Arts and Entertainment', 'Beer Bar', 'Restaurant']","Cls, 201, Brasília, DF, 70232-530",-15.79974,-47.88411
+53ee2c96498ecb2bcceb5fba,Downtown Restaurante Escola SENAC,8.4,['Restaurant'],"St. Bancario Norte 1 - Asa Norte, Brasília, DF",-15.78971,-47.880585
+58414c334bafb71470eb004b,Bacio di Latte - Shopping Conjunto Nacional,9.1,"['Ice Cream Parlor', 'Restaurant']","SDN Conjunto A Shopping Conjunto Nacional, Brasília, DF, 70077-900",-15.78971,-47.880585
+4cb395411168a093a1314323,Cacau Show,8.6,"['Cafes, Coffee, and Tea Houses', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.78971,-47.880585
+5706d023498eb7eb702acffe,Gádio Café,7.2,"['Café', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.78971,-47.880585
+4bb3624a2397b713070338b3,Kopenhagen,7.6,"['Coffee Shop', 'Restaurant']","Shopping Conjunto Nacional (2º Piso), Brasília, DF, 70077-900",-15.78971,-47.880585
+53d6cffd498ee7e6da02f4df,Chiquinho Sorvetes,7.4,"['Ice Cream Parlor', 'Restaurant']","Sdn Lote Unico cj a SN, Brasília, DF, 70077-900",-15.78971,-47.880585
+4ca75e32a6e08cfa4dd08394,Yogoberry,6.8,"['Frozen Yogurt Shop', 'Ice Cream Parlor', 'Restaurant']","Shopping Conjunto Nacional (1º Piso, Quiosque 13), Brasília, DF, 70077-900",-15.78971,-47.880585
+515cceace4b0c49b3f20da69,Malbec Beer,8.1,"['Bar', 'Brewery', 'Restaurant']","Shn Quadra, 1 (Térreo), Brasília, DF, 70701-010",-15.78971,-47.880585
