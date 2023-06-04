@@ -1,17 +1,20 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project was to compare the quality of API coverage for bike-sharing data and develop a regression model to predict bike availability at different stations.
 
 ## Process
-### (your step 1)
-### (your step 2)
+### 1. Collected bike-sharing data from official and third-party APIs.
+### 2. Cleaned and integrated the data into a merged dataset and conducted exploratory data analysis to gain insights into the dataset.
+### 3. Developed a regression model to predict bike availability based on variables like empty slots, location, and ratings.
+### 4. Transformed the regression model into a classification model for binary prediction of bike availability.
+### 5. Evaluated the performance of the classification model using accuracy, precision, recall, and F1 score.
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+The official API had better coverage and more accurate data compared to the third-party API. The regression model explained 37.3% of the variance in bike availability, with the number of empty slots, location, and ratings impacting availability. The classification model had low accuracy and precision but achieved a high recall of 93.59%, capturing most instances of bike availability.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Challenges included data collection from multiple APIs, handling missing values and duplicates, and modeling the complex relationship between variables.
 
 ## Future Goals
-(what would you do if you had more time?)
+Given more time, future goals would include exploring additional data sources, improving model accuracy and precision, feature engineering and selection, and conducting extensive model validation and testing.
